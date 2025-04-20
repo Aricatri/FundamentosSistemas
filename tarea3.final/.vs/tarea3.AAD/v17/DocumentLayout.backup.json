@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2025\\2025-1\\Fundamentos de Sistemas\\tareas semanales\\tarea3.AAD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A529A9E-9163-4C71-9E2A-B9C1ECFAEBD2}|tarea3.AAD\\tarea3.AAD.csproj|C:\\2025\\2025-1\\Fundamentos de Sistemas\\tareas semanales\\tarea3.AAD\\tarea3.aad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A529A9E-9163-4C71-9E2A-B9C1ECFAEBD2}|tarea3.AAD\\tarea3.AAD.csproj|solutionrelative:tarea3.aad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A529A9E-9163-4C71-9E2A-B9C1ECFAEBD2}|tarea3.AAD\\tarea3.AAD.csproj|c:\\2025\\2025-1\\fundamentos de sistemas\\tareas semanales\\tarea3.aad\\tarea3.aad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A529A9E-9163-4C71-9E2A-B9C1ECFAEBD2}|tarea3.AAD\\tarea3.AAD.csproj|solutionrelative:tarea3.aad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A529A9E-9163-4C71-9E2A-B9C1ECFAEBD2}|tarea3.AAD\\tarea3.AAD.csproj|C:\\2025\\2025-1\\Fundamentos de Sistemas\\tareas semanales\\tarea3.AAD\\tarea3.aad\\repository\\cinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A529A9E-9163-4C71-9E2A-B9C1ECFAEBD2}|tarea3.AAD\\tarea3.AAD.csproj|solutionrelative:tarea3.aad\\repository\\cinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A529A9E-9163-4C71-9E2A-B9C1ECFAEBD2}|tarea3.AAD\\tarea3.AAD.csproj|C:\\2025\\2025-1\\Fundamentos de Sistemas\\tareas semanales\\tarea3.AAD\\tarea3.aad\\services\\cineservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A529A9E-9163-4C71-9E2A-B9C1ECFAEBD2}|tarea3.AAD\\tarea3.AAD.csproj|solutionrelative:tarea3.aad\\services\\cineservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A529A9E-9163-4C71-9E2A-B9C1ECFAEBD2}|tarea3.AAD\\tarea3.AAD.csproj|C:\\2025\\2025-1\\Fundamentos de Sistemas\\tareas semanales\\tarea3.AAD\\tarea3.aad\\entities\\cine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A529A9E-9163-4C71-9E2A-B9C1ECFAEBD2}|tarea3.AAD\\tarea3.AAD.csproj|solutionrelative:tarea3.aad\\entities\\cine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\2025\\2025-1\\Fundamentos de Sistemas\\tareas semanales\\tarea3.AAD\\tarea3.AAD\\Form1.cs",
+              "RelativeDocumentMoniker": "tarea3.AAD\\Form1.cs",
+              "ToolTip": "C:\\2025\\2025-1\\Fundamentos de Sistemas\\tareas semanales\\tarea3.AAD\\tarea3.AAD\\Form1.cs",
+              "RelativeToolTip": "tarea3.AAD\\Form1.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAA1wDIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:16:44.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CineServices.cs",
+              "DocumentMoniker": "C:\\2025\\2025-1\\Fundamentos de Sistemas\\tareas semanales\\tarea3.AAD\\tarea3.AAD\\services\\CineServices.cs",
+              "RelativeDocumentMoniker": "tarea3.AAD\\services\\CineServices.cs",
+              "ToolTip": "C:\\2025\\2025-1\\Fundamentos de Sistemas\\tareas semanales\\tarea3.AAD\\tarea3.AAD\\services\\CineServices.cs",
+              "RelativeToolTip": "tarea3.AAD\\services\\CineServices.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:21:28.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CineRepository.cs",
+              "DocumentMoniker": "C:\\2025\\2025-1\\Fundamentos de Sistemas\\tareas semanales\\tarea3.AAD\\tarea3.AAD\\repository\\CineRepository.cs",
+              "RelativeDocumentMoniker": "tarea3.AAD\\repository\\CineRepository.cs",
+              "ToolTip": "C:\\2025\\2025-1\\Fundamentos de Sistemas\\tareas semanales\\tarea3.AAD\\tarea3.AAD\\repository\\CineRepository.cs",
+              "RelativeToolTip": "tarea3.AAD\\repository\\CineRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:52:34.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cine.cs",
+              "DocumentMoniker": "C:\\2025\\2025-1\\Fundamentos de Sistemas\\tareas semanales\\tarea3.AAD\\tarea3.AAD\\entities\\Cine.cs",
+              "RelativeDocumentMoniker": "tarea3.AAD\\entities\\Cine.cs",
+              "ToolTip": "C:\\2025\\2025-1\\Fundamentos de Sistemas\\tareas semanales\\tarea3.AAD\\tarea3.AAD\\entities\\Cine.cs",
+              "RelativeToolTip": "tarea3.AAD\\entities\\Cine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:44:28.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\2025\\2025-1\\Fundamentos de Sistemas\\tareas semanales\\tarea3.AAD\\tarea3.AAD\\Form1.cs",
+              "RelativeDocumentMoniker": "tarea3.AAD\\Form1.cs",
+              "ToolTip": "C:\\2025\\2025-1\\Fundamentos de Sistemas\\tareas semanales\\tarea3.AAD\\tarea3.AAD\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "tarea3.AAD\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:33:18.294Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
